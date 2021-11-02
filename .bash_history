@@ -94,3 +94,49 @@ rm 31-5.html
 ls
 cat 01-9.html 
 ls
+cd snap
+ls
+cd ..
+ls
+git init -b main
+git
+sudo apt install git
+git init -b main
+git bash
+git init
+git add .
+git status
+git commit -am "first"
+git commit -m "first"
+git config --global user.email "adrian.farrugia.19@um.edu.mt"
+git commit -m "first"
+git branch -M main
+git remote add origin git@github.com:tardodo/DataScienceHTML.git
+git push -u origin main
+git remote add origin git@github.com:tardodo/DataScienceHTML.git
+git push -u origin main
+git status
+git add .
+git commit -am "second commit"
+git status
+git push -u origin main
+git remote add origin https://github.com/tardodo/DataScienceHTML.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote -v
+ls
+git push origin main
+git remote rm origin https://github.com/tardodo/DataScienceHTML.git
+git remote remove origin h
+git remote remove https://github.com/tardodo/DataScienceHTML.git
+git remote remove git@github.com:tardodo/DataScienceHTML.git 
+git remote remove git@github.com:tardodo/DataScienceHTML.git
+git remote add origin https://github.com/tardodo/DataScienceHTML.git
+git push -u origin main
+git push origin main
+ls
+git remote add origin https://github.com/tardodo/datasc.git
+git remote remove origin
+git remote add origin https://github.com/tardodo/datasc.git
+git push -u origin main
