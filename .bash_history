@@ -140,3 +140,9 @@ git remote add origin https://github.com/tardodo/datasc.git
 git remote remove origin
 git remote add origin https://github.com/tardodo/datasc.git
 git push -u origin main
+ls
+git status
+git stage -A
+git status
+git commit -am"more files"
+git push
